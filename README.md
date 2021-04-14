@@ -1,2 +1,2 @@
-# kodluyoruz_odev2
-HTML Ödev 2
+# personal_page
+Kodluyoruz - HTML Ödev 2
